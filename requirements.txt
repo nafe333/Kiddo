@@ -1,0 +1,15 @@
+gunicorn
+flask
+os
+keras
+librosa 
+numpy
+warnings
+IPython
+keras
+matplotlib
+scipy
+sklearn
+requests
+google
+colab
