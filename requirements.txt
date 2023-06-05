@@ -1,6 +1,0 @@
-gunicorn
-flask
-os
-keras
-librosa 
-
