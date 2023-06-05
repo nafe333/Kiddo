@@ -1,6 +1,5 @@
 gunicorn
 flask
-os
 keras
 librosa 
 numpy
